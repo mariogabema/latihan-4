@@ -1,0 +1,21 @@
+jawaban no 2 dan no 3
+
+
+2. Pseudocode
+	BEGIN
+	string nama;
+	int a,b,c,e;
+	Input nama;	
+	Input a;
+	Input b;
+	Input c;
+	Proses  e = (a + b + c) / 3;
+	IF e>=85 print "Maka mendapat hadiah Sepeda Mobil";
+	else if (e>=70) print "Maka mendapat hadiah Sepeda Motor,-";
+	else if (e<70) print "Maka mendapat hadiah Kipas Angin";
+	END
+
+3. - pada switch case kondisi hanya dinyatakan dengan bilangan bulat atau karakter/string sedangkan IF-ELSE yang dapat menggunakan operasi seperti <, >, <= dan >=.
+     Tidak ada konstanta yang sama dalam sebuah switch.
+   - di switch case harus menggunakan break,  Gunanya untuk mengakhiri statement.
+   - di switch case Ada default, ini bisa dibilang sebagai ‘Else’nya Switch Case.
